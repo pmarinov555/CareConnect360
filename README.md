@@ -1,1 +1,1 @@
-# CareConnect360
+# CareConnect360 is a comprehensive patient management system designed to foster seamless communication and collaboration among healthcare providers, ensuring holistic and patient-centric care. This innovative solution is a cornerstone in optimizing healthcare workflows and enhancing the overall patient experience.
